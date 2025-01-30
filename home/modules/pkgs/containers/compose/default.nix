@@ -1,0 +1,5 @@
+{ ... }: {
+  imports = [
+    ./compose.nix
+  ];
+}

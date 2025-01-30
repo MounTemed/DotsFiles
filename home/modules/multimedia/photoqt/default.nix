@@ -1,0 +1,1 @@
+{ ... }: { imports = [ ./photoqt.nix ]; }
